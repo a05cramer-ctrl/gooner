@@ -1,0 +1,1 @@
+window.GPU_CFG={NAME:"GOONER PROCESSING UNIT",TICKER:"GPU",CA:"",CHAIN:"solana",PAD:"stonkfun",PAIR:"NVDA",X:"",COMMUNITY:"",BUY:"",CHART:"",MEMES:["meme1.jpg","meme2.jpg","meme3.jpg","meme4.jpg","meme5.jpg","meme6.jpg"]};
